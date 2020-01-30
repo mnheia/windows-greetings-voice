@@ -7,6 +7,7 @@ This script can be run through Task Scheduler.
 
 # Requirements
 - Microsoft Windows
+- Microsoft Outlook
 
 # Bugs
 Please report any bugs or feature requests through the web interface at https://github.com/mnheia/windows-greetings-voice/issues

@@ -1,8 +1,8 @@
 Copyright (c) 2018, Mitja Sovec <mitja@sovec.si>
 
 # windows-greetings-voice
-windows-greetings-voice is a vbs script that makes Windows greet you
-This script can be run through Task Scheduler
+windows-greetings-voice is a vbs script that makes Windows greet you.
+This script can be run through Task Scheduler.
 
 # Requirements
 - Microsoft Windows
